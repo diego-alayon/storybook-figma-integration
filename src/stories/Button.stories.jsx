@@ -31,6 +31,14 @@ Secondary.args = {
   label: 'Button',
 };
 
+Secondary.parameters = {
+  design: {
+    type: 'figma',
+    url:
+      'https://www.figma.com/file/jOxUmFHa6YS2ezrztJmdJs/Sort-column-in-preview-mode?node-id=0%3A1',
+  },
+}
+
 export const Large = Template.bind({});
 Large.args = {
   size: 'large',
