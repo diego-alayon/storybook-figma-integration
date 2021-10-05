@@ -35,7 +35,7 @@ Secondary.parameters = {
   design: {
     type: 'figma',
     url:
-      'https://www.figma.com/proto/jOxUmFHa6YS2ezrztJmdJs/Sort-column-in-preview-mode?page-id=0%3A1&node-id=32%3A23516&viewport=241%2C48%2C0.56&scaling=scale-down&starting-point-node-id=32%3A24242&show-proto-sidebar=1',
+      'https://www.figma.com/proto/jOxUmFHa6YS2ezrztJmdJs/Sort-column-in-preview-mode?page-id=0%3A1&node-id=32%3A23516&viewport=241%2C48%2C0.56&scaling=scale-down&starting-point-node-id=32%3A24242&show-proto-sidebar=1he',
   },
 }
 
